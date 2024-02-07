@@ -1,0 +1,9 @@
+# menu
+menu_file = "File"
+menu_file_new = "New model"
+menu_file_open = "Open"
+menu_file_save = "Save"
+menu_file_save_as = "Save As"
+menu_file_import = "Import"
+menu_file_export = "Export"
+menu_file_exit = "Exit"
